@@ -1,0 +1,22 @@
+[02-Jul-2017 00:38:33 UTC] wizard_viewed
+[02-Jul-2017 00:38:45 UTC] wizard_started
+[02-Jul-2017 00:40:04 UTC] wizard_step_completed
+[02-Jul-2017 00:40:05 UTC] wizard_step_viewed
+[02-Jul-2017 00:40:19 UTC] wizard_step_completed
+[02-Jul-2017 00:40:19 UTC] wizard_step_viewed
+[02-Jul-2017 00:40:25 UTC] wizard_step_completed
+[02-Jul-2017 00:40:26 UTC] wizard_step_viewed
+[02-Jul-2017 00:40:27 UTC] wizard_step_viewed
+[02-Jul-2017 00:40:27 UTC] contact_page_built
+[02-Jul-2017 00:40:27 UTC] wizard_step_completed
+[02-Jul-2017 00:40:42 UTC] PHP Fatal error:  Class 'Jetpack_Landing_Page' not found in /home1/bullsga1/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/class.jetpack-onboarding-end-points.php on line 567
+[02-Jul-2017 00:40:46 UTC] wizard_step_skipped
+[02-Jul-2017 00:40:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bullsga1/public_html/wp-content/plugins/OMAPI/Widget.php on line 177
+[02-Jul-2017 00:42:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bullsga1/public_html/wp-content/plugins/OMAPI/Widget.php on line 177
+[02-Jul-2017 01:05:17 UTC] wizard_hidden
+[02-Jul-2017 01:10:42 UTC] WordPress database error Duplicate entry '1' for key 'PRIMARY' for query INSERT INTO `wp_pijl_bwg_shortcode` (`id`, `tagtext`) VALUES (1, ' gallery_type=\"thumbnails\" theme_id=\"1\" gallery_id=\"1\" sort_by=\"order\" order_by=\"asc\" show_search_box=\"0\" show_sort_images=\"0\" search_box_width=\"180\" image_column_number=\"5\" images_per_page=\"30\" image_title=\"none\" image_enable_page=\"1\" thumb_width=\"180\" thumb_height=\"90\" load_more_image_count=\"30\" show_tag_box=\"0\" tag=\"0\" show_gallery_description=\"0\" showthumbs_name=\"0\" thumb_click_action=\"open_lightbox\" thumb_link_target=\"1\" popup_fullscreen=\"0\" popup_autoplay=\"0\" popup_width=\"800\" popup_height=\"500\" popup_effect=\"fade\" popup_interval=\"5\" popup_enable_filmstrip=\"0\" popup_filmstrip_height=\"70\" popup_enable_ctrl_btn=\"1\" popup_enable_fullscreen=\"1\" popup_enable_info=\"1\" popup_info_always_show=\"0\" popup_info_full_width=\"0\" popup_enable_rate=\"0\" popup_enable_comment=\"1\" popup_hit_counter=\"0\" popup_enable_facebook=\"1\" popup_enable_twitter=\"1\" popup_enable_google=\"1\" popup_enable_pinterest=\"0\" popup_enable_tumblr=\"0\" show_tag_box=\"0\" popup_effect_duration=\"1\" watermark_type=\"none\" watermark_link=\"https://web-dorado.com\"') made by do_action('photo-gallery_page_BWGShortcode'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, bwg_gallery, BWGControllerBWGShortcode->execute, BWGControllerBWGShortcode->save
+[02-Jul-2017 01:29:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bullsga1/public_html/wp-content/plugins/OMAPI/Widget.php on line 177
+[02-Jul-2017 01:30:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bullsga1/public_html/wp-content/plugins/OMAPI/Widget.php on line 177
+[02-Jul-2017 01:36:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bullsga1/public_html/wp-content/plugins/OMAPI/Widget.php on line 177
+[02-Jul-2017 01:41:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bullsga1/public_html/wp-content/plugins/OMAPI/Widget.php on line 177
+[13-Sep-2017 00:11:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/bullsga1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 462
